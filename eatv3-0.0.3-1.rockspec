@@ -1,5 +1,5 @@
 package = "Eatv3"
-version = "0.0.2-1"
+version = "0.0.3-1"
 
 source = {
   url = "https://github.com/March012847/eat/archive/refs/tags/v--0.0.2.zip",
