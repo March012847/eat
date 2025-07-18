@@ -34,7 +34,11 @@ Hello and welcome to the eat package (version 0.0.1-beta). This package is a jok
 
 2. eat:StartEating(person, eater)
    - Simulates eating a person with progress output.
-]])
+3. eat:registerurl(url)
+   - registers webhook url that is used by the http requests group
+4. eat:PostEating(person,eater)
+   - this one just posts into discord or others this one does not have delays
+    ]])
 end
 
 
